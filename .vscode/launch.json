@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/comprolab/lablab21/lablab21",
-      "program": "c:/comprolab/lablab21/lablab21/build/Debug/outDebug",
+      "cwd": "c:/comprolab/lablab21/lablab21/lablab21",
+      "program": "c:/comprolab/lablab21/lablab21/lablab21/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
